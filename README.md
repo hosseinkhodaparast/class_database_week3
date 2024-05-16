@@ -1,5 +1,6 @@
 # class_database_week3
-<h2 dir="rtl">نام و نام خانوادگی: حسین خداپرست</h2>
+<h2 dir="rtl">نام و نام خانوادگی: حسین خداپرست - 02220033705016</h2>
+
 <h2 dir="rtl">موضوع: مقایسه اوراکل، MySQL و SQL Server</h2>
 
 <div dir="rtl">
